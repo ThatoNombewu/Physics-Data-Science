@@ -1,4 +1,4 @@
-# [Thato Nombewu] — Physics Data Science Portfolio
+# Physics Data Science Portfolio
 
 > BSc in Physics • Data Scientist • Computational Researcher
 
