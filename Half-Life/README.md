@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository/document contains a nuclear physics laboratory report titled **"Neutron Activation of \(^{27}\mathrm{Al}\)"** by Thato Nombewu (NMBTHA004) from the Department of Physics, University of Cape Town, for the PHY3004W Nuclear Physics Laboratory course (May 23, 2025).
+This repository/document contains a nuclear physics laboratory report titled **"Neutron Activation of $\(^{27}\mathrm{Al}\)$ "** by Thato Nombewu (NMBTHA004) from the Department of Physics, University of Cape Town, for the PHY3004W Nuclear Physics Laboratory course (May 23, 2025).
 
 The report details an experiment using **neutron activation**, **gamma-ray spectroscopy**, and **time-resolved decay analysis** to identify radioactive isotopes produced when natural aluminium is exposed to a neutron source, and to measure their half-lives.
 
