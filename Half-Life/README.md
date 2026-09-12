@@ -1,4 +1,4 @@
-# Neutron Activation of \(^{27}\mathrm{Al}\)
+# Neutron Activation of ^{27}
 
 ## Overview
 
