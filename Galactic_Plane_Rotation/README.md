@@ -2,8 +2,6 @@
 
 ## Overview
 
-This repository/document contains an astrophysics laboratory report titled **"Galactic Plane Rotation Report"** by Thato Nombewu (NMBTHA004) from the Department of Physics, University of Cape Town, for the AST3003S Galactic and Extragalactic Lab course (September 2025).
-
 The report details an experiment using **neutral hydrogen (H I) 21 cm line observations** to study the structure and motion of gas in the Milky Way. The Tony Fairall Teaching Telescope was used to observe 21 cm line emission at three Galactic longitudes along the Galactic plane, and the resulting spectra were calibrated and analysed to extract maximum relative velocities.
 
 ---
