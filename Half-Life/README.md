@@ -1,8 +1,8 @@
-# Neutron Activation of ^{27}
+# Neutron Activation of ²⁷Al
 
 ## Overview
 
-This repository/document contains a nuclear physics laboratory report titled **"Neutron Activation of $\(^{27}\mathrm{Al}\)$ "** by Thato Nombewu (NMBTHA004) from the Department of Physics, University of Cape Town, for the PHY3004W Nuclear Physics Laboratory course (May 23, 2025).
+This repository/document contains a nuclear physics laboratory report titled **"Neutron Activation of ²⁷Al"** by Thato Nombewu (NMBTHA004) from the Department of Physics, University of Cape Town, for the PHY3004W Nuclear Physics Laboratory course (May 23, 2025).
 
 The report details an experiment using **neutron activation**, **gamma-ray spectroscopy**, and **time-resolved decay analysis** to identify radioactive isotopes produced when natural aluminium is exposed to a neutron source, and to measure their half-lives.
 
@@ -12,16 +12,15 @@ The report details an experiment using **neutron activation**, **gamma-ray spect
 
 The primary objectives of this experiment were:
 
-1. **Activate natural aluminium (\(^{27}\mathrm{Al}\))** using a neutron source via the reaction:
-   \[
-   ^{27}\mathrm{Al}(n,\gamma)^{28}\mathrm{Al}
-   \]
+1. **Activate natural aluminium (²⁷Al)** using a neutron source via the reaction:
 
-2. **Identify the radioactive isotope \(^{28}\mathrm{Al}\)** through its characteristic gamma-ray emission at **1779 keV**.
+   ²⁷Al(n,γ)²⁸Al
 
-3. **Measure the half-life of \(^{28}\mathrm{Al}\)** using time-resolved decay analysis and compare it with the accepted literature value (**2.245 min**).
+2. **Identify the radioactive isotope ²⁸Al** through its characteristic gamma-ray emission at **1779 keV**.
 
-4. **Observe and identify any secondary activation products**, specifically \(^{27}\mathrm{Mg}\), and measure its half-life.
+3. **Measure the half-life of ²⁸Al** using time-resolved decay analysis and compare it with the accepted literature value (**2.245 min**).
+
+4. **Observe and identify any secondary activation products**, specifically ²⁷Mg, and measure its half-life.
 
 5. **Develop an uncertainty budget** to evaluate the contributions of statistical and systematic errors in the analysis.
 
@@ -31,9 +30,9 @@ The primary objectives of this experiment were:
 
 The experiment addresses the following fundamental questions:
 
-- **Can neutron activation successfully produce measurable quantities of radioactive \(^{28}\mathrm{Al}\)** from stable \(^{27}\mathrm{Al}\) using an Am-Be neutron source?
+- **Can neutron activation successfully produce measurable quantities of radioactive ²⁸Al** from stable ²⁷Al using an Am-Be neutron source?
 
-- **Can the decay constant and half-life of \(^{28}\mathrm{Al}\) be accurately determined** using gamma-ray spectroscopy and exponential decay fitting?
+- **Can the decay constant and half-life of ²⁸Al be accurately determined** using gamma-ray spectroscopy and exponential decay fitting?
 
 - **What secondary activation products are produced** during the irradiation, and can they be identified and characterized?
 
@@ -47,9 +46,9 @@ The experiment addresses the following fundamental questions:
 
 ### 1. Experimental Setup
 
-- **Neutron source**: Am-Be source (\(2.2\ \mathrm{GBq}\)) placed in a water bath.
-- **Samples**: Natural aluminium (\(^{27}\mathrm{Al}\)) cylinders.
-- **Detector**: \(5\ \mathrm{cm} \times 5\ \mathrm{cm}\) NaI(Tl) scintillator coupled to a multichannel analyzer (MCA).
+- **Neutron source**: Am-Be source (2.2 GBq) placed in a water bath.
+- **Samples**: Natural aluminium (²⁷Al) cylinders.
+- **Detector**: 5 cm × 5 cm NaI(Tl) scintillator coupled to a multichannel analyzer (MCA).
 - **Calibration**: Reference sources (Na-22, Cs-137, Mn-54) used to establish a linear energy-channel relation.
 
 ### 2. Data Acquisition
@@ -60,29 +59,28 @@ The experiment addresses the following fundamental questions:
 ### 3. Gamma-Ray Identification
 
 - Summed spectrum analysed to identify peaks.
-- Dominant peak at **1771 keV** attributed to \(^{28}\mathrm{Al}\) decay.
-- Secondary peak at **849 keV** attributed to \(^{27}\mathrm{Mg}\).
+- Dominant peak at **1771 keV** attributed to ²⁸Al decay.
+- Secondary peak at **849 keV** attributed to ²⁷Mg.
 - Compton edge also observed.
 
 ### 4. Decay Curve Analysis
 
 - Counts integrated over specific energy intervals as a function of time.
 - Decay equation used:
-  \[
-  N = N_0 e^{-\lambda t} + C_{\text{Background}}
-  \]
+
+   N = N₀e^(−λt) + C_Background
+
 - Linearized semi-log form:
-  \[
-  \ln(N - C_B) = \ln(N_0) - \lambda t
-  \]
+
+   ln(N − C_B) = ln(N₀) − λt
+
 - Linear fits applied to the data:
-  - **\(^{28}\mathrm{Al}\)**: first 10 min used (decay curve became constant around 700 s)
-  - **\(^{27}\mathrm{Mg}\)**: up to 30 min used
-- Decay constant: \(\lambda = -m\) (negative gradient)
+  - **²⁸Al**: first 10 min used (decay curve became constant around 700 s)
+  - **²⁷Mg**: up to 30 min used
+- Decay constant: λ = −m (negative gradient)
 - Half-life calculated using:
-  \[
-  t_{1/2} = \frac{\ln 2}{\lambda}
-  \]
+
+   t₁/₂ = ln 2 / λ
 
 ### 5. Isotope Identification
 
@@ -103,19 +101,19 @@ The experiment addresses the following fundamental questions:
 
 ### Measured Half-Lives
 
-| Isotope | Decay Constant \(\lambda\) (s\(^{-1}\)) | Measured Half-Life (min) | Literature Half-Life (min) |
+| Isotope | Decay Constant λ (s⁻¹) | Measured Half-Life (min) | Literature Half-Life (min) |
 |---|---:|---:|---:|
-| \(^{28}\mathrm{Al}\) | \(0.00492 \pm 0.00026\) | \(2.348 \pm 0.0062\) | 2.245 (or 2.248) |
-| \(^{27}\mathrm{Mg}\) | \(0.00129 \pm 0.00012\) | \(8.96 \pm 0.833\) | 9.435 |
+| ²⁸Al | 0.00492 ± 0.00026 | 2.348 ± 0.0062 | 2.245 (or 2.248) |
+| ²⁷Mg | 0.00129 ± 0.00012 | 8.96 ± 0.833 | 9.435 |
 
 ### Key Findings
 
-- **\(^{28}\mathrm{Al}\) successfully produced** via neutron activation of \(^{27}\mathrm{Al}\).
-- **Measured half-life of \(^{28}\mathrm{Al}\)**: \(2.35 \pm 0.06\ \mathrm{min}\) — in good agreement with accepted value of **2.245 min**.
-- **\(^{27}\mathrm{Mg}\) identified** as a secondary activation product with a peak at **849 keV**.
-- **Measured half-life of \(^{27}\mathrm{Mg}\)**: \(8.96 \pm 0.83\ \mathrm{min}\) — consistent with literature value of **9.435 min**.
+- **²⁸Al successfully produced** via neutron activation of ²⁷Al.
+- **Measured half-life of ²⁸Al**: 2.35 ± 0.06 min — in good agreement with accepted value of **2.245 min**.
+- **²⁷Mg identified** as a secondary activation product with a peak at **849 keV**.
+- **Measured half-life of ²⁷Mg**: 8.96 ± 0.83 min — consistent with literature value of **9.435 min**.
 - **Uncertainty budget**:
-  - Combined uncertainty for \(^{28}\mathrm{Al}\) half-life: **2.5%**
+  - Combined uncertainty for ²⁸Al half-life: **2.5%**
   - Dominant contributions: count statistics (1.5%), background estimation (0.8%), energy calibration (0.5%)
 
 ### Conclusion
@@ -128,23 +126,23 @@ The experiment demonstrated the effectiveness of **gamma spectroscopy** and **ti
 
 ### 1. Energy Discrepancies
 
-- **\(^{28}\mathrm{Al}\) gamma energy**: Abstract and introduction cite **1779 keV**, but results text reports the dominant peak at **1771 keV**.
-- **\(^{28}\mathrm{Al}\) literature half-life**: Abstract/introduction/conclusion cite **2.245 min**, while the NuDat section cites **2.248 min**.
+- **²⁸Al gamma energy**: Abstract and introduction cite **1779 keV**, but results text reports the dominant peak at **1771 keV**.
+- **²⁸Al literature half-life**: Abstract/introduction/conclusion cite **2.245 min**, while the NuDat section cites **2.248 min**.
 
 ### 2. Inconsistent Uncertainty Reporting
 
-- Table 2 lists \(^{28}\mathrm{Al}\) half-life as \(2.348 \pm 0.0062\ \mathrm{min}\), but the conclusion states \(2.35 \pm 0.06\ \mathrm{min}\).
-- The uncertainty in Table 2 appears inconsistent with the quoted \(\lambda\) uncertainty; the conclusion value uses \(\pm 0.06\ \mathrm{min}\).
+- Table 2 lists ²⁸Al half-life as 2.348 ± 0.0062 min, but the conclusion states 2.35 ± 0.06 min.
+- The uncertainty in Table 2 appears inconsistent with the quoted λ uncertainty; the conclusion value uses ± 0.06 min.
 
 ### 3. Limited Data Range for Fitting
 
-- **\(^{28}\mathrm{Al}\)**: Only the first 10 minutes were used for fitting because the decay curve became constant around 700 s.
-- **\(^{27}\mathrm{Mg}\)**: Only up to 30 minutes were used due to the short-lived aluminium lifespan.
+- **²⁸Al**: Only the first 10 minutes were used for fitting because the decay curve became constant around 700 s.
+- **²⁷Mg**: Only up to 30 minutes were used due to the short-lived aluminium lifespan.
 
 ### 4. Background Subtraction
 
 - Background estimation contributed **0.8%** to the combined uncertainty.
-- The constant background term \(C_B\) may not fully account for all background processes.
+- The constant background term C_B may not fully account for all background processes.
 
 ### 5. Detector Resolution
 
